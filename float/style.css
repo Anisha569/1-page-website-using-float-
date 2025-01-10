@@ -1,0 +1,185 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(238, 16, 16);
+    border: 30px solid  red;
+    border-top: 60px solid black;
+    border-bottom: 20px groove black;
+   
+
+}
+h1{
+  
+    width: 20%;
+    font-family: Algerian;
+    font-size: 25px;
+    margin: 0;
+    padding: 0px;
+}
+
+nav ul{
+    width: 80%;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;justify-content: right;gap: 70px;
+}
+nav li{
+   
+    margin: 0px;
+    padding: 0;
+    font-size: 30px;
+    color: black;
+}
+nav a{
+    color: black;
+    text-decoration: none;
+}
+.main{
+   display: flex;
+   align-items: flex-start;
+   justify-content: space-between;
+   margin: 10px;
+}
+.left{
+    width: 90%;
+    text-align: center;
+    margin: 30px;
+}
+.box{
+    width: 40%;
+}
+.img1{
+   
+    height: 300PX;
+    width: 500PX;
+    border: 10px solid;
+    border-top-color: rgb(255, 0, 13) ;
+    border-bottom-color: rgb(255, 0, 13);
+    border-left-color: rgb(23, 37, 233);
+    border-right-color: rgb(15, 19, 253);
+    box-shadow: 5px 5px 10px 10px rgb(7, 11, 223);
+    text-align: center;
+   
+
+}
+h2{
+    font-family: Algerian;
+    font-size: 40px;
+    width: 500px;
+    text-align: center;
+    margin: 10px;
+}
+.tex{
+    width: 400px;
+    text-align: justify;
+   
+}
+.right{
+   
+    width: 40%;
+    float: inline-end;
+    padding: 0px;
+    margin: 0;
+
+
+}
+.img2{
+
+    margin: 0%;
+    padding: 0%;
+    height: 300px;
+    width: 500px;
+    border: 10px solid;
+    border-top-color: white;
+    border-bottom-color:white;
+    border-left-color: rgb(250, 33, 33);
+    border-right-color: rgb(241, 7, 27);
+    box-shadow: 5px 5px 10px 10px rgb(223, 20, 20);
+   
+}
+.hd{
+    font-family: Algerian;
+    font-size: 40px;
+    width: 500px;
+    text-align: center;
+    margin: 10px; 
+}
+.img3{
+    margin: 0%;
+    padding: 0%;
+    height: 300px;
+    width: 500px;
+    border: 10px solid;
+    border-top-color: rgb(56, 56, 243);
+    border-bottom-color: rgb(46, 46, 224);
+    border-left-color: rgb(236, 240, 24);
+    border-right-color: rgb(233, 230, 23);
+    box-shadow: 5px 5px 10px 10px rgb(248, 81, 4);
+   
+    
+}
+.fire{
+width: 1155px;
+margin: 20px;
+}
+.tex1{
+    text-align: center;
+}
+
+
+.box3{
+   
+    height: 40px;
+    width: 1390px;
+    background-color: red;
+    border: 10px groove black;
+}
+.da{
+    width: 500px;
+}
+.box4{
+    float: left;
+    height: 1460px;
+    width: 40px;
+    background-color: black;
+    border: 10px solid red;
+}
+.dn{
+    width: 1410px;
+}
+.box5{
+    float: inline-end;
+    height: 1460px;
+    width: 50px;
+    background-color: black;
+    border: 10px solid red;
+}
+.bt{
+    width: 1200px;
+}
+.box6{
+    height: 20px;
+    width: 100%;
+    background-color: black;
+    border: 10px solid red;
+}
+.name{
+    font-size: 20px;
+    width: 26%;
+}
+
+.done{
+    padding: 0px;
+    font-size: 20px;
+    font-family: algerian;
+display: flex;
+    width: 1520px;
+}
+    
+    
